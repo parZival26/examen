@@ -1,0 +1,202 @@
+[
+  {
+    "question": "¿Qué es la computación en la nube?",
+    "options": [
+      "Un modelo de red local",
+      "Un modelo tecnológico que permite acceso a recursos informáticos a través de Internet",
+      "Un tipo de software de escritorio",
+      "Una red privada de servidores físicos"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "question": "¿Qué empresa tiene la mayor cuota de mercado en servicios en la nube?",
+    "options": [
+      "Google Cloud Platform",
+      "Microsoft Azure",
+      "Amazon Web Services (AWS)",
+      "Oracle Cloud"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "question": "¿Cuál de los siguientes es un modelo de servicio en la nube?",
+    "options": [
+      "IaaS",
+      "VPN",
+      "HTTP",
+      "LAN"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "¿Qué significa SaaS?",
+    "options": [
+      "Software as a Service",
+      "Storage as a Service",
+      "System as a Service",
+      "Security as a Service"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "¿Qué tipo de proveedor de nube ofrece servicios exclusivamente a una sola empresa?",
+    "options": [
+      "Proveedor de nube pública",
+      "Proveedor de nube híbrida",
+      "Proveedor de nube privada",
+      "Proveedor de nube compartida"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "question": "¿Cuál es una ventaja clave de la computación en la nube?",
+    "options": [
+      "Mayor consumo energético",
+      "Acceso bajo demanda a recursos informáticos",
+      "Mayor necesidad de hardware físico",
+      "Menor escalabilidad"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "question": "¿Qué proveedor destaca por sus capacidades de inteligencia artificial?",
+    "options": [
+      "Google Cloud Platform",
+      "IBM Cloud",
+      "Rackspace",
+      "Digital Ocean"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "¿Qué modelo de servicio permite a los usuarios ejecutar aplicaciones sin gestionar la infraestructura?",
+    "options": [
+      "IaaS",
+      "PaaS",
+      "SaaS",
+      "VPN"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "question": "¿Qué proveedor ofrece Amazon EC2 y S3?",
+    "options": [
+      "Google Cloud",
+      "Microsoft Azure",
+      "Amazon Web Services",
+      "Oracle Cloud"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "question": "¿Qué porcentaje del mercado global de nube tienen AWS, Azure y GCP juntos?",
+    "options": [
+      "45%",
+      "55%",
+      "65%",
+      "75%"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "question": "¿Qué proveedor de nube tiene sede en China?",
+    "options": [
+      "Alibaba Cloud",
+      "Salesforce Cloud",
+      "OVHCloud",
+      "IBM Cloud"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "¿Qué modelo de nube combina servicios públicos y privados?",
+    "options": [
+      "Nube híbrida",
+      "Nube privada",
+      "Nube pública",
+      "Nube comunitaria"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "¿Qué proveedor ofrece Azure Hybrid Benefit?",
+    "options": [
+      "Amazon Web Services",
+      "Google Cloud",
+      "Microsoft Azure",
+      "Oracle Cloud"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "question": "¿Qué proveedor tiene una cuota de mercado del 32%?",
+    "options": [
+      "Google Cloud",
+      "Amazon Web Services",
+      "Microsoft Azure",
+      "IBM Cloud"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "question": "¿Qué servicio ofrece bases de datos gestionadas en AWS?",
+    "options": [
+      "Amazon EC2",
+      "Amazon S3",
+      "Amazon RDS",
+      "Amazon Lambda"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "question": "¿Qué proveedor tiene sede en Francia?",
+    "options": [
+      "Rackspace",
+      "OVHCloud",
+      "Salesforce Cloud",
+      "Alibaba Cloud"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "question": "¿Qué modelo de servicio permite alquilar recursos como máquinas virtuales?",
+    "options": [
+      "SaaS",
+      "PaaS",
+      "IaaS",
+      "VPN"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "question": "¿Qué proveedor tiene ingresos anuales de aproximadamente $34 mil millones?",
+    "options": [
+      "Google Cloud",
+      "Microsoft Azure",
+      "Amazon Web Services",
+      "Oracle Cloud"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "¿Qué proveedor es conocido por su escalabilidad en nube pública?",
+    "options": [
+      "IBM Cloud",
+      "Amazon Web Services",
+      "Oracle Cloud",
+      "Salesforce Cloud"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "question": "¿Qué porcentaje de empresas usa un modelo de nube híbrida según Flexera?",
+    "options": [
+      "62%",
+      "72%",
+      "82%",
+      "92%"
+    ],
+    "correct_answer": 2
+  }
+]
