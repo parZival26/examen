@@ -1,12 +1,14 @@
+import { questions } from '../questions.js';
+
 class QuizApp {
   constructor() {
-    this.questions = [];
+    this.questions = questions; // Usar directamente las preguntas importadas
     this.currentQuestionIndex = 0;
     this.userAnswers = [];
     this.score = 0;
     
     this.initializeElements();
-    this.loadQuestions();
+    this.initializeQuiz(); // Cambiar nombre del método
     this.setupEventListeners();
   }
 
@@ -27,17 +29,10 @@ class QuizApp {
     this.restartBtn = document.getElementById('restart-btn');
   }
 
-  async loadQuestions() {
-    try {
-      const response = await fetch('../questions.json');
-      this.questions = await response.json();
-      this.totalQuestionsSpan.textContent = this.questions.length;
-      this.userAnswers = new Array(this.questions.length).fill(null);
-      this.displayQuestion();
-    } catch (error) {
-      console.error('Error loading questions:', error);
-      this.questionText.innerHTML = '<p style="color: red;">Error al cargar las preguntas. Por favor, recarga la página.</p>';
-    }
+  initializeQuiz() {
+    this.totalQuestionsSpan.textContent = this.questions.length;
+    this.userAnswers = new Array(this.questions.length).fill(null);
+    this.displayQuestion();
   }
 
   setupEventListeners() {
